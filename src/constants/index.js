@@ -23,6 +23,11 @@ import {
     jobit,
     tripguide,
     threejs,
+    gericht1,
+    gericht2,
+    gericht3,
+    gpt1,
+    gpt2
   } from "../assets";
 
   
@@ -237,7 +242,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: gericht1,
       source_code_link: "https://github.com/",
     },
     {
