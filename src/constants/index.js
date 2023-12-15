@@ -242,11 +242,11 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "next.js",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
@@ -263,11 +263,11 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "next.js",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
@@ -284,7 +284,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "react",
           color: "green-text-gradient",
         },
         {
