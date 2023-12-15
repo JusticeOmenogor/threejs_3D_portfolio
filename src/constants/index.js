@@ -22,13 +22,21 @@ import {
     carrent,
     jobit,
     tripguide,
-    threejs,
-    gericht1,
-    gericht2,
-    gericht3,
-    gpt1,
-    gpt2
+    threejs, 
   } from "../assets";
+
+  import Gericht1 from '../assets/gericht1.png'
+  import Gericht2 from '../assets/gericht2.png'
+  import Gericht3 from '../assets/gericht3.png'
+
+  import gpt1 from '../assets/gpt1.png'
+  import gpt2 from '../assets/gpt1.png'
+
+  import sainsburys from '../assets/company/sainsburys.png'
+  import ignitus from '../assets/company/ignitus.png'
+  import Masterschool from '../assets/company/Masterschool.png'
+  import almond from '../assets/company/almond.png'
+  import upwork from '../assets/company/upwork.png'
 
   
   export const navLinks = [
@@ -125,8 +133,8 @@ import {
     {
       title: "IT Project Manager",
       company_name: "Almond Media Ltd",
-      icon: starbucks,
-      iconBg: "#383E56",
+      icon: almond,
+      iconBg: "#000000",
       date: "March 2020 - April 2021",
       points: [
         "Liaising with internal and external stakeholders for efficient and timely delivery of services.",
@@ -140,8 +148,8 @@ import {
     {
       title: "Merchandise Data Analyst",
       company_name: "Sainsbury's",
-      icon: tesla,
-      iconBg: "#E6DEDD",
+      icon: sainsburys,
+      iconBg: "#000000",
       date: "Oct 2021 - Aug 2023",
       points: [
         "Analyzed Sales data using SQL and python to determine areas of opportunity and risks.",
@@ -157,7 +165,7 @@ import {
     {
       title: "Data Analyst",
       company_name: "Masterschool",
-      icon: tesla,
+      icon: Masterschool,
       iconBg: "#E6DEDD",
       date: "Jul 2021 - Sep 2023",
       points: [
@@ -171,7 +179,7 @@ import {
     {
       title: "Machine Learning Engineer",
       company_name: "Ignitus",
-      icon: shopify,
+      icon: ignitus,
       iconBg: "#383E56",
       date: "Aug 2023 - Dec 2023",
       points: [
@@ -184,8 +192,8 @@ import {
     {
       title: "Freelance Web Developer",
       company_name: "Upwork",
-      icon: meta,
-      iconBg: "#E6DEDD",
+      icon: upwork,
+      iconBg: "#000000",
       date: "Jan 2023 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
@@ -242,7 +250,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: gericht1,
+      image: Gericht1,
       source_code_link: "https://github.com/",
     },
     {
@@ -263,7 +271,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: Gericht2,
       source_code_link: "https://github.com/",
     },
     {
@@ -284,7 +292,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: gpt1,
       source_code_link: "https://github.com/",
     },
   ];
