@@ -235,7 +235,7 @@ import {
     {
       name: "High-end restaurant app",
       description:
-        " cutting-edge website for a high-end restaurant using React and CSS, loads of reuseable components and strong usage of the CSS BEM methodology.",
+        " cutting-edge website for a high-end restaurant using React and CSS, loads of reuseable components and strong usage of the CSS BEM methodology",
       tags: [
         {
           name: "react",
