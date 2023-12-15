@@ -233,9 +233,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "High-end restaurant app",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        " cutting-edge website for a high-end restaurant using React and CSS, loads of reuseable components and strong usage of the CSS BEM methodology.",
       tags: [
         {
           name: "react",
@@ -251,7 +251,7 @@ import {
         },
       ],
       image: Gericht1,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/JusticeOmenogor/react_restaurant_app",
     },
     {
       name: "Job IT",
